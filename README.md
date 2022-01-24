@@ -25,7 +25,7 @@ here Some examples of images of the dataset:
 - Sklearn
 - Keras
 - Tensorflow
-- 
+
 ---------------------------------------------------------
 
 The Final project - T5 Data Science Bootcamp
